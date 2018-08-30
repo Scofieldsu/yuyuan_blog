@@ -1,11 +1,11 @@
 ---
-title: vue.js入门
+title: 玩一玩vue
 date: 2017-06-01 22:39:08
-categories: frontend
+categories: 皮一下
 tags: [vue.js,npm,elementUI,axios,vuex]
 ---
 
-###  安装
+###  1. 安装vue
 
 1.下载node.js安装
 
@@ -30,7 +30,6 @@ npm run dev
 
 - 构建
 npm build
-<!-- more -->
 
 ### 项目代码结构
 
@@ -44,7 +43,7 @@ npm build
   - components
   - App.vue
   - main.js
-- static 
+- static
 - test
 - theme
 - ...
@@ -74,4 +73,3 @@ npm build
 2. 从github学习vue-admin项目，了解多页面系统怎么使用插件。
 3. 可以自由使用插件搭建你想做的应用。
 4. 学习插件的使用可以帮你更好的完成目标，学习github上项目的代码结构，帮助你在开发复杂项目时有条不紊。
-
