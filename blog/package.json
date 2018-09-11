@@ -21,8 +21,10 @@
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-jade": "^0.4.1",
     "hexo-renderer-markdown-it-plus": "^1.0.2",
+    "hexo-renderer-pug": "0.0.5",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
+    "hexo-tag-cloudmusic": "^1.2.3",
     "hexo-translate-title": "^1.0.3",
     "hexo-wordcount": "^3.0.2"
   }
