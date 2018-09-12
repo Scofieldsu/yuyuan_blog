@@ -1,5 +1,9 @@
 ---
-date: 2016-07-07 22:29:32
+title: 关于我
+description: 个人简介
+layout: about
+comments: false
+sidebar: custom
 ---
 ``` shell
 我不是我
