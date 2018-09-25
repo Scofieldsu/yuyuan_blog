@@ -1,6 +1,6 @@
 title: win7和ubuntu双系统
 date: 2015-07-15 01:21:09
-categories: 有点意思
+categories: fixbug
 tags: 双系统启动
 
 ---

@@ -1,9 +1,35 @@
 ---
 title: 玩一玩docker
 date: 2017-05-08 20:47:23
-categories: 皮一下
+categories: 搞点事情
 tags: [docker,centos7,2048]
 ---
+
+``` shell
+Docker是一个开源的应用容器引擎，基于 Go 语言 并遵从Apache2.0协议开源。
+
+Docker可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，
+然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。
+
+容器是完全使用沙箱机制，相互之间不会有任何接口（类似 iPhone 的 app）,
+更重要的是容器性能开销极低。
+
+Docker 使用客户端-服务器 (C/S) 架构模式。
+Docker 客户端会与 Docker 守护进程进行通信。
+Docker 守护进程会处理复杂繁重的任务，例如建立、运行、发布你的 Docker 容器。
+Docker 客户端和守护进程可以运行在同一个系统上，
+当然你也可以使用 Docker 客户端去连接一个远程的 Docker 守护进程。
+Docker 客户端和守护进程之间通过 socket 或者 RESTful API 进行通信。
+
+- Docker 镜像是 Docker 容器运行时的只读模板，每一个镜像由一系列的层 (layers) 组成。
+  Docker 使用 UnionFS 来将这些层联合到单独的镜像中。
+
+- Docker 仓库用来保存镜像，可以理解为代码控制中的代码仓库。
+
+- Docker 容器和文件夹很类似，一个Docker容器包含了所有的某个应用运行所需要的环境。
+
+
+```
 
 ## 1. centos安装docker
 

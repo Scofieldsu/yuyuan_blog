@@ -1,7 +1,7 @@
 ---
 title: When you are old
 date: 2016-07-15 01:46:58
-categories: 诗和小说以及文章
+categories: 诗说文
 tags: The_Life_You_Want
 ---
 ```
@@ -35,6 +35,6 @@ Murmur, a little sadly, how Love fled
 
 And paced upon the mountains overhead
 
-And hid his face amid a crowd of stars. 
+And hid his face amid a crowd of stars.
 
 ```
