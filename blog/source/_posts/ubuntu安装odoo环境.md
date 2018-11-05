@@ -1,7 +1,7 @@
 ---
-title: ubuntu安装odoo环境
+title: 关于ubuntu安装odoo环境
 date: 2016-12-08 21:13:45
-categories: fixbug
+categories: 关于一些事儿
 tags: [odoo,ubuntu,postgresql,python]
 ---
 # ubuntu安装odoo环境
