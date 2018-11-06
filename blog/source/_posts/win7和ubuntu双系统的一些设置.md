@@ -1,4 +1,4 @@
-title: 关于win7和ubuntu双系统
+title: win7和ubuntu双系统的一些设置
 date: 2015-07-15 01:21:09
 categories: 关于一些事儿
 tags: 双系统启动
